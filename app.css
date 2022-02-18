@@ -10,7 +10,7 @@
 /* utilities */
 
 .btn {
-    width: 100px;
+    width: 115px;
     border-radius: 8px;
     padding: 10px;
     font-weight: 800;
@@ -26,10 +26,6 @@
     background-color: #3882F6;
     color: #FFF;
 }
-
-/* .bd-light {
-    border: #FFF;
-} */
 
 .center-content {
     max-width: 1300px;
@@ -49,15 +45,6 @@
 a {
     text-decoration: none;
 }
-
-/* button {
-    border: none;
-} */
-
-/* h1, h2, button {
-    margin: 10px;
-    padding: 5px;
-} */
 
 img {
     height: auto;
@@ -184,3 +171,19 @@ img {
 }
 
 /* Footer section */
+
+#footer {
+    background-color: #1F2937;
+    color: #FFF;
+}
+
+.container {
+    text-align: center;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.container p {
+    align-self: center;
+}
